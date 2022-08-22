@@ -18,7 +18,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=zakyputrakresya&show_icons=true&include_all_commits=true&theme=dracula">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=zakyputrakresya&show_icons=true&include_all_commits=true&theme=dark" alt="zakyputrakresya github stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aryahdyt&theme=dark">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakyputrakresya&theme=dark">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakyputrakresya&theme=dark" />
 </a>
 </div>
