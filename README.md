@@ -15,7 +15,7 @@
 <!-- - 🔭 I’m currently working on Laravel & React Native
 - 🌱 I’m currently learning Laravel & React Native
  -->
-# ✏️ My github stats (WOW Stats : ) 
+# ✏️ My github stats :
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=zakyputrakresya&show_icons=true&include_all_commits=true&theme=dracula">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=zakyputrakresya&show_icons=true&include_all_commits=true&theme=dark" alt="zakyputrakresya github stats" />
